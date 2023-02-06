@@ -70,7 +70,7 @@ a:hover {
   -o-transition: 0.2s all ease-in-out !important;
   transition: 0.2s all ease-in-out !important;
   top: 0;
-  letter-spacing: .05em;
+  letter-spacing: .0em;
 }
 
 .btn:hover, .btn:active, .btn:focus {
